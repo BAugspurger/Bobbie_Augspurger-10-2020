@@ -39,4 +39,4 @@ Midwestern Interactive
 
 ### Code Test
 
-Any details you'd like to mention about your code test.
+Able to copy the png over to my Repository, but unable to begin coding on back side.  GitHub is a new tool for me.
